@@ -11,5 +11,9 @@
     "url": "git@heroku.com:kyle-beikirch.git"
   },
   "author": "Kyle Beikirch",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.1.1",
+    "logfmt": "^1.1.2"
+  }
 }
