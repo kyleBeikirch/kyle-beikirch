@@ -1,0 +1,15 @@
+{
+  "name": "kyle-beikirch",
+  "version": "0.0.0",
+  "description": "Personal Portfolio",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:kyle-beikirch.git"
+  },
+  "author": "Kyle Beikirch",
+  "license": "MIT"
+}
